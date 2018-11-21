@@ -1,0 +1,13 @@
+{
+  "name": "youtube-download",
+  "version": "0.0.1",
+  "description": "youtube MP4",
+  "dependencies": {
+    "@ffmpeg-installer/ffmpeg": "^1.0.16",
+    "fluent-ffmpeg": "^2.1.2",
+    "ytdl-core": "^0.28.0"
+  },
+  "scripts": {
+    "start": "node youtube-download.js"
+  }
+}
